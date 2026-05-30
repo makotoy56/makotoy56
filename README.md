@@ -71,11 +71,22 @@ https://github.com/makotoy56/public-health-statistics-workflow
 - Epidemiology
 - Survival Analysis
 - Logistic Regression
+- Reproducible Analytics Workflows
 - SQL (BigQuery)
 - Python
 - SAS
-- Quarto
-- GitHub Pages
+
+## Research Background
+
+Biomedical research experience in:
+
+- Pulmonary disease
+- Translational medicine
+- Molecular biology
+- Cancer biology
+
+ORCID:
+https://orcid.org/0009-0002-5201-2743
 
 ## LinkedIn
 
