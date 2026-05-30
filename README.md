@@ -2,15 +2,39 @@
 
 Clinical and RWE analytics using EHR data and reproducible workflows.
 
+## Start Here
+
+If you are reviewing my portfolio, start with these projects:
+
+1. COPD ICU Survival Analysis (MIMIC-IV)
+2. Non-ICU Medication Analysis (MIMIC-IV)
+3. Public Health Statistics Workflow
+
 ## Professional Focus
 
-Biomedical researcher transitioning into:
+Biomedical researcher with a focus on:
 
 - Healthcare Data Analytics
 - Clinical Data Analytics
 - Real-World Evidence (RWE)
 - Epidemiology
 - Research Analytics
+
+## Domain Focus
+
+- Electronic Health Record (EHR) data
+- MIMIC-IV clinical databases
+- Observational studies
+- Public health statistics
+- Reproducible analytical workflows
+
+## Core Stack
+
+- SQL (BigQuery)
+- Python
+- SAS
+- Quarto
+- GitHub Pages
 
 ## Featured Projects
 
@@ -30,8 +54,6 @@ EHR-based observational survival analysis of ICU patients with COPD using MIMIC-
 Repository:  
 https://github.com/makotoy56/mimic-iv-copd-raas-analysis
 
----
-
 ### Non-ICU Medication Analysis (MIMIC-IV)
 
 Observational analysis of adult non-ICU admissions evaluating RAAS inhibitor exposure and in-hospital mortality.
@@ -46,8 +68,6 @@ Observational analysis of adult non-ICU admissions evaluating RAAS inhibitor exp
 
 Repository:  
 https://github.com/makotoy56/mimic-iv-nonicu-medication
-
----
 
 ### Public Health Statistics Workflow
 
@@ -87,7 +107,3 @@ Biomedical research experience in:
 
 ORCID:
 https://orcid.org/0009-0002-5201-2743
-
-## LinkedIn
-
-https://www.linkedin.com/in/makoto-yoshida
