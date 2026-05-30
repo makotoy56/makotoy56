@@ -20,11 +20,11 @@ Biomedical researcher with a focus on:
 - Epidemiology
 - Research Analytics
 
-## Domain Focus
+## Current Analytics Focus
 
-- Electronic Health Record (EHR) data
+- EHR-based observational studies
 - MIMIC-IV clinical databases
-- Observational studies
+- Survival and risk modeling
 - Public health statistics
 - Reproducible analytical workflows
 
