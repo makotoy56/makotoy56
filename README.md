@@ -32,33 +32,34 @@ Review the COPD project first for survival analysis and RWE-style clinical model
 
 ## Skills Demonstrated by Project
 
-**COPD ICU RAAS Survival Analysis**
+### COPD ICU RAAS Survival Analysis
 
-- MIMIC-IV cohort construction
-- BigQuery SQL
-- Kaplan-Meier analysis
-- Cox proportional hazards modeling
-- Sensitivity analysis
-- SAS/Python validation
-- Quarto report
+- MIMIC-IV cohort construction ([Project](https://github.com/makotoy56/mimic-iv-copd-raas-analysis))
+- BigQuery SQL ([SQL workflow](https://github.com/makotoy56/mimic-iv-copd-raas-analysis/tree/main/sql))
+- Kaplan-Meier analysis ([Report](https://github.com/makotoy56/mimic-iv-copd-raas-analysis))
+- Cox proportional hazards modeling ([Report](https://github.com/makotoy56/mimic-iv-copd-raas-analysis))
+- Sensitivity analysis ([Report](https://github.com/makotoy56/mimic-iv-copd-raas-analysis))
+- SAS/Python validation ([Validation workflow](https://github.com/makotoy56/mimic-iv-copd-raas-analysis))
+- Quarto reporting ([Report source](https://github.com/makotoy56/mimic-iv-copd-raas-analysis/tree/main/reports))
 
-**Non-ICU RAAS Mortality Analysis**
+### Non-ICU RAAS Mortality Analysis
 
-- Non-ICU hospital admission cohort construction
-- Medication exposure definition
-- Multivariable logistic regression
-- Adjusted predicted risk
-- Marginal effects
-- SAS/Python validation
-- Quarto report
+- Non-ICU cohort construction ([Project](https://github.com/makotoy56/mimic-iv-nonicu-medication))
+- Medication exposure definition ([Project](https://github.com/makotoy56/mimic-iv-nonicu-medication))
+- Multivariable logistic regression ([Report](https://github.com/makotoy56/mimic-iv-nonicu-medication))
+- Adjusted predicted risk ([Report](https://github.com/makotoy56/mimic-iv-nonicu-medication))
+- Marginal effects ([Report](https://github.com/makotoy56/mimic-iv-nonicu-medication))
+- SAS/Python validation ([Validation workflow](https://github.com/makotoy56/mimic-iv-nonicu-medication))
+- Quarto reporting ([Report source](https://github.com/makotoy56/mimic-iv-nonicu-medication/tree/main/reports))
 
-**Public Health Statistics Workflow**
+### Public Health Statistics Workflow
 
-- Descriptive public health statistics
-- Age adjustment
-- Linear/logistic regression
-- Forest plot visualization
-- Reproducible reporting
+- Descriptive public health statistics ([Project](https://github.com/makotoy56/public-health-statistics-workflow))
+- Age adjustment ([Report](https://github.com/makotoy56/public-health-statistics-workflow))
+- Linear/logistic regression ([Report](https://github.com/makotoy56/public-health-statistics-workflow))
+- Forest plot visualization ([Report](https://github.com/makotoy56/public-health-statistics-workflow))
+- Reproducible reporting ([Repository](https://github.com/makotoy56/public-health-statistics-workflow))
+## Skills Demonstrated by Project
 
 ## Data Governance and Reproducibility
 
