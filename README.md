@@ -61,18 +61,6 @@ Review the COPD project first for survival analysis and RWE-style clinical model
 - Forest plot visualization
 - Reproducible reporting
 
-Also:
-
-- Remove the duplicate "Skills Demonstrated by Project" heading that currently appears immediately before "Data Governance and Reproducibility".
-- Do not modify any other sections.
-- Do not change Featured Portfolio Projects.
-- Do not change Recommended Review Order.
-- Do not change Data Governance and Reproducibility.
-- Do not change Technical Stack.
-- Do not change Contact.
-
-## Skills Demonstrated by Project
-
 ## Data Governance and Reproducibility
 
 All clinical projects use de-identified MIMIC-IV data under appropriate PhysioNet access requirements. No patient-level source data, PHI, credentials, or restricted datasets are included in the repositories. Reproducibility documentation is provided through README files, Quarto reports, and REPRODUCIBILITY.md files where applicable.
