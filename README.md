@@ -1,77 +1,76 @@
-# Makoto Yoshida
+# Makoto Yoshida, PhD
 
-Clinical and RWE analytics using EHR data, reproducible workflows, and biomedical research experience.
+Publication-backed biomedical researcher applying evidence-generation discipline to clinical and healthcare analytics projects.
 
-## Role Fit Summary
+My professional foundation is biomedical and translational research. This GitHub profile is a public evidence hub for how I extend that evidence-generation discipline into clinical analytics: EHR cohort construction, exposure and outcome definition, statistical modeling, reproducible reporting, and cautious interpretation of observational data.
 
-This portfolio is focused on recruiter review for:
+## Best-Fit Review Paths
 
-- Healthcare Data Analytics
+This portfolio is most relevant for:
+
 - Clinical Data Analytics
-- Real-World Evidence / RWE
-- Epidemiology / Public Health Analytics
+- Healthcare Data Analytics
 - Research Data Analytics
-
-Strengths demonstrated across the projects include SQL-based cohort construction, EHR and MIMIC-IV workflows, logistic regression, survival analysis, absolute risk interpretation, SAS/Python validation, Quarto reporting, and reproducible analytics documentation.
+- Public Health Analytics
+- RWE-adjacent observational clinical analytics
 
 ## Featured Portfolio Projects
 
-| Project | Best For | Methods | Tools |
+| Start here | Best reviewer use | What it demonstrates | Links |
 |---|---|---|---|
-| [COPD ICU RAAS Survival Analysis](https://github.com/makotoy56/mimic-iv-copd-raas-analysis) | RWE, clinical data, survival analysis | Kaplan-Meier, Cox proportional hazards, sensitivity analysis | BigQuery, SQL, Python, SAS, Quarto |
-| [Non-ICU RAAS Mortality Analysis](https://github.com/makotoy56/mimic-iv-nonicu-medication) | Clinical analytics, medication outcomes, absolute risk reporting | Logistic regression, marginal effects, sensitivity analysis | BigQuery, SQL, Python, SAS, Quarto |
-| [Public Health Statistics Workflow](https://github.com/makotoy56/public-health-statistics-workflow) | Epidemiology, public health analytics | Descriptive statistics, age adjustment, regression, forest plots | Python, Quarto |
+| Non-ICU RAAS Mortality Analysis | Broad clinical and healthcare analytics review | Large-scale MIMIC-IV hospital EHR cohort, early medication exposure definition, logistic regression, adjusted predicted risks, average marginal effects, selected SAS-Python validation | [Repo](https://github.com/makotoy56/mimic-iv-nonicu-medication) / [Report](https://makotoy56.github.io/mimic-iv-nonicu-medication/reports/nonicu_raas_mortality_report.html) |
+| COPD ICU RAAS Survival Analysis | Deeper clinical analytics and survival-analysis review | ICU COPD cohort definition, pre-ICU exposure timing, time-to-event mortality, Kaplan-Meier curves, Cox proportional hazards modeling, diagnostics, sensitivity analysis, selected SAS-Python validation | [Repo](https://github.com/makotoy56/mimic-iv-copd-raas-analysis) / [Report](https://makotoy56.github.io/mimic-iv-copd-raas-analysis/copd_raas_survival_report.html) |
+| Public Health Statistics Workflow | Supporting analytics, reporting, and visualization review | Descriptive public-health workflow, age-adjusted regression, forest plots, exploratory interaction checks, Quarto reporting, GitHub Pages deployment | [Repo](https://github.com/makotoy56/public-health-statistics-workflow) / [Report](https://makotoy56.github.io/public-health-statistics-workflow/) |
 
 ## Recommended Review Order
 
-1. COPD ICU RAAS Survival Analysis
-2. Non-ICU RAAS Mortality Analysis
-3. Public Health Statistics Workflow
+1. Start with the Non-ICU RAAS Mortality Analysis for the broadest clinical EHR analytics example.
+2. Review the COPD ICU RAAS Survival Analysis for time-to-event modeling, ICU clinical reasoning, diagnostics, and sensitivity-analysis depth.
+3. Review the Public Health Statistics Workflow for reproducible reporting, age adjustment, forest plots, and public-health analytics communication.
 
-Review the COPD project first for survival analysis and RWE-style clinical modeling, the non-ICU project second for logistic regression and absolute risk interpretation, and the public health workflow third for epidemiology and population-health statistics.
+## What This Portfolio Demonstrates
 
-## Skills Demonstrated by Project
+- Clinical and healthcare analytics workflows built as portfolio evidence.
+- MIMIC-IV EHR cohort, exposure, covariate, and outcome construction.
+- SQL and BigQuery workflows for analysis-ready clinical datasets.
+- Python and Jupyter statistical analysis workflows.
+- Logistic regression, adjusted predicted risk, and average marginal effects.
+- Kaplan-Meier and Cox proportional hazards survival analysis.
+- Sensitivity analysis, model diagnostics, and limitation-aware interpretation.
+- Selected SAS-Python validation checks.
+- Quarto reporting, GitHub Pages publication, and reproducible documentation.
+- Evidence-boundary discipline grounded in publication-backed biomedical research.
 
-### COPD ICU RAAS Survival Analysis
+## Evidence Scope
 
-- MIMIC-IV cohort construction
-- BigQuery SQL
-- Kaplan-Meier survival analysis
-- Cox proportional hazards modeling
-- Sensitivity analysis
-- SAS/Python validation
-- Quarto reporting
+These repositories are portfolio projects, not employment history. The MIMIC-IV findings are observational and hypothesis-generating, so they should not be interpreted as causal treatment-effect evidence.
 
-### Non-ICU RAAS Mortality Analysis
+The profile emphasizes documented evidence: publication-backed biomedical research, EHR analytics projects, reproducible reporting, and selected validation workflows.
 
-- Non-ICU hospital admission cohort construction
-- Medication exposure definition
-- Multivariable logistic regression
-- Adjusted predicted risk estimation
-- Marginal effects analysis
-- SAS/Python validation
-- Quarto reporting
+## Research Foundation
 
-### Public Health Statistics Workflow
+Before building this analytics portfolio, my primary foundation was publication-backed biomedical and translational research. That work supports the same habits this portfolio emphasizes: question framing, endpoint definition, data interpretation, scientific writing, collaborator communication, and careful limitation handling.
 
-- Descriptive public-health statistics
-- Age-group adjustment
-- Linear regression
-- Logistic regression
-- Forest plot visualization
-- Reproducible reporting
+For publication records and research identifiers, see [ORCID](https://orcid.org/0009-0002-5201-2743).
+
+## Additional Evidence
+
+I also have resume-backed experience evaluating AI-generated biomedical, technical, analytical, and Japanese/English content for factuality, reasoning quality, intent alignment, and language quality using rubric-based review workflows.
 
 ## Data Governance and Reproducibility
 
-All clinical projects use de-identified MIMIC-IV data under appropriate PhysioNet access requirements. No patient-level source data, PHI, credentials, or restricted datasets are included in the repositories. Reproducibility documentation is provided through README files, Quarto reports, and REPRODUCIBILITY.md files where applicable.
+The MIMIC-IV clinical projects use de-identified data under PhysioNet access requirements. No patient-level source data, PHI, credentials, or restricted datasets are included in the repositories.
+
+The repositories are designed for public review of code, documentation, aggregate outputs, figures, reports, and reproducibility structure. Reproduction of MIMIC-IV analyses requires independent PhysioNet approval, appropriate data access, and local environment configuration.
 
 ## Technical Stack
 
 - SQL / BigQuery
 - Python
 - pandas / NumPy
-- statsmodels / lifelines / scikit-learn
-- SAS
+- statsmodels / lifelines
+- Jupyter
+- Selected SAS-Python validation workflows
 - Quarto
 - Git / GitHub
 - GitHub Pages
