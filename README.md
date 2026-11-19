@@ -18,8 +18,8 @@ This portfolio is most relevant for:
 
 | Start here | Best reviewer use | What it demonstrates | Links |
 |---|---|---|---|
-| Non-ICU RAAS Mortality Analysis | Broad clinical and healthcare analytics review | Large-scale MIMIC-IV hospital EHR cohort, early medication exposure definition, logistic regression, adjusted predicted risks, average marginal effects, selected SAS-Python validation | [Repo](https://github.com/makotoy56/mimic-iv-nonicu-medication) / [Report](https://makotoy56.github.io/mimic-iv-nonicu-medication/reports/nonicu_raas_mortality_report.html) |
-| COPD ICU RAAS Survival Analysis | Deeper clinical analytics and survival-analysis review | ICU COPD cohort definition, pre-ICU exposure timing, time-to-event mortality, Kaplan-Meier curves, Cox proportional hazards modeling, diagnostics, sensitivity analysis, selected SAS-Python validation | [Repo](https://github.com/makotoy56/mimic-iv-copd-raas-analysis) / [Report](https://makotoy56.github.io/mimic-iv-copd-raas-analysis/copd_raas_survival_report.html) |
+| Non-ICU RAAS Mortality Analysis | Broad clinical and healthcare analytics review | Large-scale MIMIC-IV hospital EHR cohort, early medication exposure definition, logistic regression, adjusted predicted risks, average marginal effects, 24-hour landmark sensitivity analysis, patient-cluster bootstrap intervals | [Repo](https://github.com/makotoy56/mimic-iv-nonicu-medication) / [Report](https://makotoy56.github.io/mimic-iv-nonicu-medication/reports/nonicu_raas_mortality_report.html) |
+| COPD ICU RAAS Survival Analysis | Deeper clinical analytics and survival-analysis review | ICU COPD cohort definition, pre-ICU exposure timing, time-to-event mortality, Kaplan-Meier curves, Cox proportional hazards modeling, diagnostics, independent Cox checks with lifelines and statsmodels PHReg, competing-risk analysis | [Repo](https://github.com/makotoy56/mimic-iv-copd-raas-analysis) / [Report](https://makotoy56.github.io/mimic-iv-copd-raas-analysis/copd_raas_survival_report.html) |
 | Public Health Statistics Workflow | Supporting analytics, reporting, and visualization review | Descriptive public-health workflow, age-adjusted regression, forest plots, exploratory interaction checks, Quarto reporting, GitHub Pages deployment | [Repo](https://github.com/makotoy56/public-health-statistics-workflow) / [Report](https://makotoy56.github.io/public-health-statistics-workflow/) |
 
 ## Recommended Review Order
@@ -37,7 +37,7 @@ This portfolio is most relevant for:
 - Logistic regression, adjusted predicted risk, and average marginal effects.
 - Kaplan-Meier and Cox proportional hazards survival analysis.
 - Sensitivity analysis, model diagnostics, and limitation-aware interpretation.
-- Selected SAS-Python validation checks.
+- Independent Cox model cross-checks and patient-level bootstrap methods.
 - Quarto reporting, GitHub Pages publication, and reproducible documentation.
 - Evidence-boundary discipline grounded in publication-backed biomedical research.
 
@@ -70,7 +70,6 @@ The repositories are designed for public review of code, documentation, aggregat
 - pandas / NumPy
 - statsmodels / lifelines
 - Jupyter
-- Selected SAS-Python validation workflows
 - Quarto
 - Git / GitHub
 - GitHub Pages
